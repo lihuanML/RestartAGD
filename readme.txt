@@ -33,7 +33,5 @@ Run test_long to produce bottom two in Figure 3.
 
 
 
-Note1: Due to size limitation, we only upload MovieLens-10M and MovieLens-20M datasets to gitgub.
+Note: Due to size limitation, we only upload MovieLens-10M and MovieLens-20M datasets to gitgub.
       So test3 will not run correctly due to the lack of dataset.
-
-Note2：You may download MovieLens-10M and MovieLens-20M datasets separately and copy them to the data folder.
